@@ -20,5 +20,7 @@
 
     <cache alias="com.jay.app.domain.User.persistentTokens" uses-template="simple"/>
 
+    <cache alias="com.jay.app.domain.WishList" uses-template="simple"/>
+
     <!-- jhipster-needle-ehcache-add-entry -->
 </config>
