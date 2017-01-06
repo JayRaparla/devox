@@ -22,5 +22,7 @@
 
     <cache alias="com.jay.app.domain.WishList" uses-template="simple"/>
 
+    <cache alias="com.jay.app.domain.Wish" uses-template="simple"/>
+
     <!-- jhipster-needle-ehcache-add-entry -->
 </config>
